@@ -1,3 +1,3 @@
-module github.com/go-sex/sex
+module gopkg.in/sex.v0
 
 go 1.13
